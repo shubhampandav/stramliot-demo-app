@@ -2,4 +2,3 @@ requests
 streamlit
 beautifulsoup4
 yfinance 
-time
