@@ -33,7 +33,7 @@ def main():
             live_price = fetch_live_price(ticker, exchange)
             
             # Display the live price
-            price_text.write(f"Price: {live_price}", unsafe_allow_html=True)
+            price_text.write(f"<p id='price-text'>Price: {live_price}</p>", unsafe_allow_html=True)
             
             time.sleep(1)
 
