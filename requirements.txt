@@ -2,3 +2,5 @@ requests
 streamlit
 beautifulsoup4
 yfinance 
+random
+flask
