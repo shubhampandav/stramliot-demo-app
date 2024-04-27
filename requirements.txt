@@ -1,6 +1,4 @@
-requests
 streamlit
-beautifulsoup4
-yfinance 
-random
 flask
+time
+random
